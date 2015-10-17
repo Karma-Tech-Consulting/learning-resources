@@ -1,4 +1,4 @@
-# Free Web Platform/SaaS Learning Resources
+# [Free Web Platform/SaaS Learning Resources](http://karma-tech-consulting.github.io/learning-resources/#/)
 
 These resources will be used in classrooms around the world to teach essential job skills.
 
